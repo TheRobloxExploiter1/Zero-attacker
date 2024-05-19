@@ -34,7 +34,7 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS
 """)
 
 
-url = input("Enter URL>> ")
+url = input("xvideos.com")
  
 try:
     threads = int(input("Threads: "))
